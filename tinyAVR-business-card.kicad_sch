@@ -5,10 +5,11 @@
   (paper "A4")
 
   (title_block
-    (title "tinyAVR 1-Series Business Card")
+    (title "tinyAVR 2-Series Business Card + Clock + Dev Board")
     (date "2024-05-10")
     (rev "1.0")
     (company "www.e-tinkers.com")
+    (comment 1 "Hackaday 2024 Business Card Challenge Contest")
     (comment 2 "Designed By: Henry Cheung")
   )
 
