@@ -4,8 +4,8 @@ This is my entry for Hackaday 2024 Business Card Challenge Contest.
 
 A business card with contact info and QR Code, plus a charlieplexed realtime clock powered by a CR2016 coin cell with extremely low battery power consumption, it is also a complete ATtiny3227 development board with all the pins break-out.
 
-!["PCB name card side"](https://cdn.hackaday.io/files/1962948398242496/2024_business_card_challenge_PCB_back.png)
-!["PCB component side"](https://cdn.hackaday.io/files/1962948398242496/2024_business_card_challenge_PCB_front.png)
+!["PCB name card side"](https://hackaday.io/project/196294/gallery#cd7defb886e165cf9c410214fc8c3e1c)
+!["PCB component side"](https://hackaday.io/project/196294/gallery#6c2953c0f6d51da367c3c5947e00604d)
 
 ### Feature Highlights
 
